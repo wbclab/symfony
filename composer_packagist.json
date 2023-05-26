@@ -1,0 +1,14 @@
+{
+    "name": "wbclab/bundle_2",
+    "type": "library",
+    "description": "PHP Lab Test Bundle",
+    "license": "MIT",
+    "keywords": ["pollub","lab","webchili","fun"],
+    "homepage": "https://github.com/wbclab/bundle_1",
+    "authors": [
+        {
+            "name": "Mariusz Mortka",
+            "email": "your@email.address"
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "name": "wbclab/bundle_2",
+    "description": "Test WBC LAB",
+    "require": {
+        "php": ">=7.1.0"
+    }
+}
